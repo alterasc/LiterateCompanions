@@ -1,4 +1,4 @@
-# Literary Companions - mod for Pathfinder: Wrath of the Righteous
+# Literate Companions - mod for Pathfinder: Wrath of the Righteous
 
 Converts books that grant permanent bonuses to main character into single use usable items that can be used by any member of the party.
 
