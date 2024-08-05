@@ -1,0 +1,13 @@
+﻿{
+  "Id": "LiterateCompanions",
+  "DisplayName": "Literate Companions",
+  "Author": "AlterAsc",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.11",
+  "GameVersion": "2.3.3",
+  "Requirements": [],
+  "AssemblyName": "LiterateCompanions.dll",
+  "EntryMethod": "LiterateCompanions.Main.Load",
+  "HomePage": "https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/699",
+  "Repository": "https://raw.githubusercontent.com/alterasc/LiterateCompanions/main/Repository.json"
+}
